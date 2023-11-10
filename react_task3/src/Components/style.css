@@ -1,0 +1,19 @@
+
+.app-container {
+    background-color: #b8b6dd;
+    min-height: 100vh;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .app-heading {
+    margin-bottom: 20px;
+    color: #020007;
+  }
+  
+  .color-picker-container {
+    display: inline-block;
+    text-align: left;
+  }
+  
+ 
